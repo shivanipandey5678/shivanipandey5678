@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm shivani pandey</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">Dynamic Full Stack Developer adept in CSS, JavaScript, HTML, and Python, with a strong commitment to continuous learning and in-depth understanding of technologies. Eager to tackle new challenges and implement innovative solutions. 🚀💡</h3>
 
 - 🔭 I’m currently working on **modern JavaScript ,react**
 
