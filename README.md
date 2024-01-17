@@ -11,8 +11,7 @@
 
 - 📫 How to reach me **shivanipandey0107@gmail.com**
 
-- 📄 Know about my experiences [i'm a teacher and i have a experience of sales](i'm a teacher and i have a experience of sales)
-
+- 📄 Know about my experiences [i'm a teacher and i have a experience of sales]
 - ⚡ Fun fact **I think I'm good in explaining things in easy way**
 
 <h3 align="left">Connect with me:</h3>
