@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm shivani pandey</h1>
 <h3 align="center">Frontend Developer intern adept in CSS, JavaScript, HTML, and Python, with a strong commitment to continuous learning and in-depth understanding of technologies. Eager to tackle new challenges and implement innovative solutions. 🚀💡</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<!-- <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"> -->
 
 - 🔭 I’m currently working on **modern JavaScript ,react**
 
