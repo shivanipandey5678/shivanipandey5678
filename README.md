@@ -17,6 +17,16 @@
 * 💻 HTML, CSS, JavaScript
 * 📚 3 years of teaching experience
 * 💼 1 year of sales experience
+## Portfolio
+
+Check out my portfolio to see some of my work: 
+<a href="https://66a94970ec9e8e8f1a4b9c59--admirable-biscotti-3f6485.netlify.app/" target="_blank">My Portfolio</a>
+
+## Resume
+
+For more details on my background and skills, view my resume: 
+<a href="https://drive.google.com/file/d/1mVrUwMywmRWtUX3fp9BANacLyoy1kuGy/view" target="_blank">Download Resume</a>
+
 
 🔭 **Current Projects:**
 - **Kohl's Website Clone**: Building a clone of the Kohl's website using React, Chakra UI, Axios, and JSON Server.
