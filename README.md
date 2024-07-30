@@ -66,5 +66,5 @@
 - **Gmail**: [shivanipandey0107@gmail.com](mailto:shivanipandey0107@gmail.com)
 
 💬 **Fun Facts:**
-- I love cars and enjoy learning about the latest in automotive technology.
+-I enjoy learning about the latest in automotive technology.
 - Fitness enthusiast: Obsessed with exercise, especially push-ups.
