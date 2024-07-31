@@ -75,6 +75,4 @@ For more details on my background and skills, view my resume:
 - **LinkedIn**: [shivani-pandey](https://www.linkedin.com/in/shivani-pandey)
 - **Gmail**: [shivanipandey0107@gmail.com](mailto:shivanipandey0107@gmail.com)
 
-💬 **Fun Facts:**
--I enjoy learning about the latest in automotive technology.
-- Fitness enthusiast: Obsessed with exercise, especially push-ups.
+
