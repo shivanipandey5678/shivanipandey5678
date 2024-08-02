@@ -25,7 +25,7 @@ Check out my portfolio to see some of my work:
 ## Resume
 
 For more details on my background and skills, view my resume: 
-<a href="https://drive.google.com/file/d/1QyC1dTLrMrv-xu4ehdcg4RLiI6bygSav/view?usp=sharing" target="_blank">Download Resume</a>
+<a href="https://drive.google.com/file/d/1QyC1dTLrMrv-xu4ehdcg4RLiI6bygSav/view?usp=sharing" target="_blank" Resume</a>
 
 
 🔭 **Current Projects:**
