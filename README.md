@@ -1,79 +1,95 @@
+# 🌸 Hi, I'm Shivani Pandey! 💕
 
-<!-- Use HTML for layout in README.md -->
-# Shivani Pandey 
-<div style="display: flex; justify-content: space-around;">
-  
-  <div>
-    <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="GIF"/>
-  </div>
-</div>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+
+<p><em>Full-Stack Developer 🖥  </em></p>
 
 
 
-👋 Hi, I'm Shivani Pandey, a passionate web developer from Delhi, India. I have a strong foundation in frontend technologies, and I love creating visually appealing and user-friendly websites.
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-## Skills and Experience
-*  ⚛ React
-* 💻 HTML, CSS, JavaScript
-* 📚 3 years of teaching experience
-* 💼 1 year of sales experience
-## Portfolio
-
-Check out my portfolio to see some of my work: 
-<a href="https://shivanipandey-protfolio.netlify.app//" target="_blank">My Portfolio</a>
-
-## Resume
-
-For more details on my background and skills, view my resume: 
-<a href="https://drive.google.com/file/d/1B1yrIUgjY5RjUnUDgCUZcmy47H_QX_Of/view?usp=sharing" target="_blank">Resume</a>
+```javascript
+const shivani = {
+  pronouns: "she/her",
+  currentlyLearning: "Something cool ",
+  funFacts: [
+    "💸 Self-funded my own education and courses",
+    "👩‍🏫 Taught students while upgrading my own skills",
+    "🏋️ Gym rat who loves arms over legs (no shame!)"
+  ]
+ 
+};
 
 
+class WhoAmI:
+    def __init__(self):
+        self.name = "Shivani Pandey"
+        self.role = "Full-Stack Developer"
+        self.city = "Delhi"
+        
+        self.technologies = {
+            "Languages": ["JavaScript", "Python", "HTML", "CSS"],
+            "Frontend": ["React", "Tailwind CSS","EJS"],
+            "Backend": ["Node.js", "Express.js"],
+            "Databases": ["MongoDB", "PostgreSQL"],
+            "Tools": ["Git", "GitHub", "Postman", "Cloudinary"],
+            "Others": ["JWT", "REST APIs", "React Router"]
+        }
 
-🔭 **Current Projects:**
-- **Kohl's Website Clone**: Building a clone of the Kohl's website using React, Chakra UI, Axios, and JSON Server.
-- **CSS Discussion Series**: Sharing daily insights on various CSS properties on LinkedIn to help others understand and utilize CSS effectively.
+        self.hobbies = [
+            "Writing ✍️",
+            "Spending time with close ones 🫂",
+            "Eating momos 🥟",
+            "Making my special ones feel special 💝",
+            "Upskilling 📚"
+        ]
 
-🌱 **Learning & Growing:**
-- Diving into backend development, with a focus on Node.js.
+    def ambitions(self):
+        return [
+            "Master full-stack development 💻",
+            "Stay fit consistently 🏋️‍♀️",
+            "Finish more books 📖",
+            "Explore new tech trends 🚀"
+        ]
 
-## Tech Stack
+    def mindset(self):
+        return "Learn deeply, copy smart, fail fast, and rise faster 💪"
 
-### **Frontend:**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=flat&logo=chakraui&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+```
+### 💬 CSS Daily Tips Series
+I share daily bite-sized CSS tips on LinkedIn to help frontend beginners.  
+[🔗 Check out my LinkedIn](https://www.linkedin.com/in/shivani-pandey/)
 
-### **Backend:**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![JSON Server](https://img.shields.io/badge/JSON_Server-4CAF50?style=flat&logo=json&logoColor=white)
+---
 
-### **Tools:**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-5A29E3?style=flat&logo=axios&logoColor=white)
-![LocalStorage](https://img.shields.io/badge/LocalStorage-F7DF1E?style=flat&logo=html5&logoColor=black)
-![React Router DOM](https://img.shields.io/badge/React_Router_DOM-CA4245?style=flat&logo=react-router&logoColor=white)
+### 🌱 Currently Exploring
+- ☁️ Cloud architecture and storage models (in graduation)
+- ⏱ Time-blocking and productivity tools (Notion)
+- 🧗‍♀️ Learning chin-ups (slowly but surely!)
 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+---
 
-## GitHub Status
+### ❤️‍🔥 My Mindset
+> "Tech has no limits — only your curiosity does. Learn deeply, fail fast, and rise faster."
 
-![Shivani's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivanipandey5678&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&hide_rank=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivanipandey5678&layout=compact&theme=dark)
-
-🚀 **Goals:**
-- To create seamless and responsive web applications that provide excellent user experiences.
-- To continuously learn and share knowledge with the developer community.
-
-📫 **Connect with Me:**
-- **LinkedIn**: [shivani-pandey](https://www.linkedin.com/in/shivani-pandey)
-- **Gmail**: [shivanipandey0107@gmail.com](mailto:shivanipandey0107@gmail.com)
+---
 
 
+
+### 📊 GitHub Stats
+
+
+
+### 📊 GitHub Contributions Summary
+
+[![Shivani's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shivanipandey5678&theme=react-dark&hide_border=true)](https://github.com/shivanipandey5678)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivanipandey5678&layout=compact&theme=radical)
+
+- 📢 Sharing knowledge
+- 🤝 Supporting each other
+
+Let's connect — because **we rise by lifting others 💫**
+
+---
