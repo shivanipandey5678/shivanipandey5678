@@ -9,16 +9,7 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const shivani = {
-  pronouns: "she/her",
-  currentlyLearning: "Something cool ",
-  funFacts: [
-    "💸 Self-funded my own education and courses",
-    "👩‍🏫 Taught students while upgrading my own skills",
-    "🏋️ Gym rat who loves arms over legs (no shame!)"
-  ]
- 
-};
+
 
 
 class WhoAmI:
@@ -38,9 +29,7 @@ class WhoAmI:
 
         self.hobbies = [
             "Writing ✍️",
-            "Spending time with close ones 🫂",
-            "Eating momos 🥟",
-            "Making my special ones feel special 💝",
+           "Making my special ones feel special 💝",
             "Upskilling 📚"
         ]
 
@@ -54,6 +43,19 @@ class WhoAmI:
 
     def mindset(self):
         return "Learn deeply, copy smart, fail fast, and rise faster 💪"
+
+
+
+   const shivani = {
+  pronouns: "she/her",
+  currentlyLearning: "Something cool ",
+  funFacts: [
+    "💸 Self-funded my own education and courses",
+    "👩‍🏫 Taught students while upgrading my own skills",
+    "🏋️ Gym rat who loves arms over legs (no shame!)"
+  ]
+ 
+};
 
 ```
 ### 💬 CSS Daily Tips Series
@@ -77,6 +79,7 @@ I share daily bite-sized CSS tips on LinkedIn to help frontend beginners.
 
 
 ### 📊 GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivanipandey5678&layout=compact&theme=radical)
 
 
 
@@ -85,7 +88,7 @@ I share daily bite-sized CSS tips on LinkedIn to help frontend beginners.
 [![Shivani's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shivanipandey5678&theme=react-dark&hide_border=true)](https://github.com/shivanipandey5678)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivanipandey5678&layout=compact&theme=radical)
+
 
 - 📢 Sharing knowledge
 - 🤝 Supporting each other
