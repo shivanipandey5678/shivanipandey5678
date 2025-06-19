@@ -33,13 +33,7 @@ class WhoAmI:
             "Upskilling 📚"
         ]
 
-    def ambitions(self):
-        return [
-            "Master full-stack development 💻",
-            "Stay fit consistently 🏋️‍♀️",
-            "Finish more books 📖",
-            "Explore new tech trends 🚀"
-        ]
+   
 
     def mindset(self):
         return "Learn deeply, copy smart, fail fast, and rise faster 💪"
@@ -51,8 +45,8 @@ class WhoAmI:
   currentlyLearning: "Something cool ",
   funFacts: [
     "💸 Self-funded my own education and courses",
-    "👩‍🏫 Taught students while upgrading my own skills",
-    "🏋️ Gym rat who loves arms over legs (no shame!)"
+    "👩‍🏫 Taught students while upgrading my own skills"
+    
   ]
  
 };
