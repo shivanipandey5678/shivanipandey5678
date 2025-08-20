@@ -27,11 +27,7 @@ class WhoAmI:
             "Others": ["JWT", "REST APIs", "React Router"]
         }
 
-        self.hobbies = [
-            "Writing ✍️",
-           "Making my special ones feel special 💝",
-            "Upskilling 📚"
-        ]
+       
 
    
 
