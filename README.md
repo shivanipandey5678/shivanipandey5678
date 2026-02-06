@@ -15,25 +15,69 @@
 class WhoAmI:
     def __init__(self):
         self.name = "Shivani Pandey"
-        self.role = "Full-Stack Developer"
+        self.role = "Full-Stack Developer | Frontend Focused | GenAI Enthusiast"
         self.city = "Delhi"
-        
+
         self.technologies = {
-            "Languages": ["JavaScript", "Python", "HTML", "CSS"],
-            "Frontend": ["React", "Tailwind CSS","EJS"],
-            "Backend": ["Node.js", "Express.js"],
-            "Databases": ["MongoDB", "PostgreSQL"],
-            "Tools": ["Git", "GitHub", "Postman", "Cloudinary"],
-            "Others": ["JWT", "REST APIs", "React Router"]
+            "Languages": ["JavaScript", "Python", "HTML5", "CSS3"],
+            
+            "Frontend": [
+                "React.js",
+                "Next.js",
+                "Tailwind CSS",
+                "Bootstrap",
+                "Chakra UI",
+                "Shadcn UI",
+                "Material UI",
+                "EJS"
+            ],
+
+            "Backend": [
+                "Node.js",
+                "Express.js",
+                "REST APIs",
+                "JWT Authentication"
+            ],
+
+            "Databases": [
+                "MongoDB",
+                "PostgreSQL"
+            ],
+
+            "Cloud & Deployment": [
+                "AWS (EC2, S3, IAM - Fundamentals)",
+                "Render",
+                "Netlify",
+                "Vercel"
+            ],
+
+            "Generative AI & LLMs": [
+                "Prompt Engineering",
+                "LangChain",
+                "RAG (Retrieval Augmented Generation)",
+                "AI Agents",
+                "Conversational AI",
+                "Vector Search"
+            ],
+
+            "Developer Tools": [
+                "Git",
+                "GitHub",
+                "Postman",
+                "VS Code",
+                "Vite",
+                "Cloudinary"
+            ],
+
+            "AI Tools": [
+                "Lovable AI",
+                "Cursor AI",
+                "Magic UI"
+            ]
         }
 
-       
-
-   
-
     def mindset(self):
-        return "Learn deeply, copy smart, fail fast, and rise faster 💪"
-
+        return "Learn deeply, build consistently, fail fast, and grow stronger 🚀"
 
 
    const shivani = {
