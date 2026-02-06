@@ -67,22 +67,6 @@ I share daily bite-sized CSS tips on LinkedIn to help frontend beginners.
 ---
 
 
-
-### 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivanipandey5678&layout=compact&theme=radical)
-
-
-
-### 📊 GitHub Contributions Summary
-
-[![Shivani's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shivanipandey5678&theme=react-dark&hide_border=true)](https://github.com/shivanipandey5678)
-
-
-
-
-- 📢 Sharing knowledge
-- 🤝 Supporting each other
-
 Let's connect — because **we rise by lifting others 💫**
 
 ---
